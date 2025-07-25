@@ -30,3 +30,9 @@
 -- MAGIC %python
 -- MAGIC # List all files and directories in the Databricks demo repo
 -- MAGIC dbutils.fs.ls('/Repos/demo')
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC
+-- MAGIC ###I really happy for my new learned repo.
